@@ -4,13 +4,13 @@ Developed a web site with an e-commerce integrated for a graphic design business
 
 1. **Home page (desktop)**
 
-![Home page](./img/lara-multiservice_store-banner.png)
+![Home page](./lara-multiservice_store-banner.png)
 
 2. **Products section (desktop)**
 
-![Home-recipes section](./img/lara-multiservice_product.png)
+![Home-recipes section](./lara-multiservice_product.png)
 
 3. **Responsive**
 
-![Home page responsive](./img/Lara-multiservice_store-responsive.png)
+![Home page responsive](./Lara-multiservice_store-responsive.png)
 
