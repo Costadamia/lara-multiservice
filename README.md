@@ -1,6 +1,7 @@
 # Lara Multiservice e-commerce
 
 Developed a web site with an e-commerce integrated for a graphic design business. 
+[visit the web site](http://alexisr43.sg-host.com/)
 
 1. **Home page (desktop)**
 
